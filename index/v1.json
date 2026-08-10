@@ -1,7 +1,7 @@
 {
   "kind": "crown-profile-index",
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T03:18:19Z",
+  "generatedAt": "2026-08-03T03:18:46Z",
   "profiles": [
     {
       "bundleId": "crown.crown-profile.3dc63735",
@@ -12,6 +12,23 @@
       "tags": [],
       "updatedAt": "2026-08-03T03:18:19Z",
       "url": "../profiles/2400-1080/crown-profile-3dc63735.crown.json",
+      "layoutBasis": {
+        "widthPx": 1080,
+        "heightPx": 2400,
+        "densityDpi": 420,
+        "density": 2.625,
+        "orientation": "portrait"
+      }
+    },
+    {
+      "bundleId": "crown.crown-profile.55b589be",
+      "name": "通用游戏按键",
+      "summary": "",
+      "author": "qmy666999",
+      "game": "2400*1080",
+      "tags": [],
+      "updatedAt": "2026-08-03T03:18:46Z",
+      "url": "../profiles/2400-1080/crown-profile-55b589be.crown.json",
       "layoutBasis": {
         "widthPx": 1080,
         "heightPx": 2400,
