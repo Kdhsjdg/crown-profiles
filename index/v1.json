@@ -1,7 +1,7 @@
 {
   "kind": "crown-profile-index",
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T03:18:46Z",
+  "generatedAt": "2026-08-07T17:33:07Z",
   "profiles": [
     {
       "bundleId": "crown.crown-profile.3dc63735",
@@ -102,6 +102,27 @@
         "heightPx": 2322,
         "densityDpi": 420,
         "density": 2.625,
+        "orientation": "portrait"
+      }
+    },
+    {
+      "bundleId": "crown.crown-profile.5745c797",
+      "name": "原神手机端",
+      "summary": "尽力还原了手机端操作，有部分操作需要关闭王冠才能操作（比如命座升级），小地图如果不能打开可以把触控模式改一下。缺点就是每次点小地图，菜单......界面都会平A",
+      "author": "枫",
+      "game": "原神",
+      "tags": [
+        "原神",
+        "红米K70至尊",
+        "2712*1220"
+      ],
+      "updatedAt": "2026-08-07T17:33:07Z",
+      "url": "../profiles/crown-profile/crown-profile-5745c797.crown.json",
+      "layoutBasis": {
+        "widthPx": 1220,
+        "heightPx": 2712,
+        "densityDpi": 520,
+        "density": 3.25,
         "orientation": "portrait"
       }
     },
